@@ -72,7 +72,7 @@ web服务器，接收命令，驱动小车
 
 ####客户端
 客户端界面如图所示
-![](https://github.com/bvcalf/SmartHome/blob/master/design.png)
+![](https://github.com/bvcalf/SmartCar/blob/master/design.png)
 #####首页
 - 注册登录
 
